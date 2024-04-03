@@ -1,0 +1,14 @@
+C:\Users\MY PC\source\repos\Login\Login\bin\Debug\net8.0\Login.exe
+C:\Users\MY PC\source\repos\Login\Login\bin\Debug\net8.0\Login.deps.json
+C:\Users\MY PC\source\repos\Login\Login\bin\Debug\net8.0\Login.runtimeconfig.json
+C:\Users\MY PC\source\repos\Login\Login\bin\Debug\net8.0\Login.dll
+C:\Users\MY PC\source\repos\Login\Login\bin\Debug\net8.0\Login.pdb
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.dll
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\refint\Login.dll
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.pdb
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\Login.genruntimeconfig.cache
+C:\Users\MY PC\source\repos\Login\Login\obj\Debug\net8.0\ref\Login.dll
